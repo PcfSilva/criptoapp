@@ -10,6 +10,7 @@ body {
   color: #ffffff;
   width: 100%;
   max-width: 1080px;
+  margin-inline: auto;
 }
 
 button {
