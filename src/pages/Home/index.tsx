@@ -1,5 +1,5 @@
 import { BsSearch } from "react-icons/bs"
-import { Link, Links } from "react-router"
+import { Link } from "react-router"
 import styles from "./home.module.css"
 
 export default function Home() {
